@@ -1,0 +1,11 @@
+{
+  "period": "daily",
+  "adjust": "none",
+  "start_date": "19900101",
+  "end_date": "20260618",
+  "parsed_xtp_supported_codes": 174,
+  "success_count": 174,
+  "failure_count": 0,
+  "output_dir": "C:\\Users\\Administrator\\Desktop\\gu\\akshare_xtp_daily_20260618",
+  "data_dir": "C:\\Users\\Administrator\\Desktop\\gu\\akshare_xtp_daily_20260618\\daily_csv"
+}
